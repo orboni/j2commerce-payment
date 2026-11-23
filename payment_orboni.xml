@@ -7,7 +7,7 @@
     <creationDate>2026-11-23</creationDate>
     <copyright>Copyright (C) 2026 Orboni</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE</license>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>PLG_J2COMMERCE_PAYMENT_ORBONI_XML_DESCRIPTION</description>
     <namespace path="src">Orboni\Plugin\J2commerce\PaymentOrboni</namespace>
     <scriptfile>script.php</scriptfile>
