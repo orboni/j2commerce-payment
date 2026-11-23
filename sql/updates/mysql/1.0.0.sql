@@ -1,0 +1,1 @@
+-- 1.0.0: the table is made by install.mysql.utf8.sql.
